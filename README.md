@@ -1,36 +1,25 @@
 # Projeto Final - Turma QUA.315.024 - Desenvolvedor C#
 <h1 align="center">Projeto VoeAirlines</h1>
-<p>inserir logo</p>
-<h4>GMVA</h4>
-<p>Projeto de Manutenção e Voos de Aeronaves</p>
 
-<ul>
-   <li>Cadastro de Aeronaves</li>
-   <li>Cadastro de Tipos de Aeronaves</>
-   <li>Gerenciamento de Manutenções</li>
-   <li>Gerenciamento de Voos<li>
-   <li>Emitir Relatórios em PDF</>
+![Inserir logo](https://google.com)
 
-</ul>
+### **Projeto de manutenção e voos de aeronaves**
+* Cadastro de aeronaves
+* Cadastro de tipos de aeronaves
+* Gerenciamento de manutenções
+* Gerenciamento de voos
+* Emitir relatórios em PDF
 
-<h3>Tecnologias</h3>
+### **Tecnologias**
+* ``.NET 6``
+* ``C# 10``
+* ``ASP.NET Core Web API``
+* ``Node.js``
 
-<ul>
-    <li>.NET 6</li>
-    <li>C# 10</li>
-    <li>ASP.NET Core Web API</li>
-    <li>Node.js</li> 
-</ul>
+### **Gerenciamento de Pacotes**
+* ``NPM``
 
-<h3>Gerenciamento de Pacotes</h3>
-<ul>
-    <li>NPM</li>
-</ul>
-
-<h3>Ferramentas</h3>
-<ul>
-   <li>Swagger</li>
-   <li>SQL Server</li>
-   <li>Extensões para VS Code</li>
-   
-</ul>
+### **Ferramentas**
+* ``Swagger``
+* ``SQL Server``
+* ``Extensões para VS Code``
