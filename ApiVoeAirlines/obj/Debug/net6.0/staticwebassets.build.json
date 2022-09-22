@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OER1wRam8DlI5NSo6ZVmV/bymPKv04kK2EyBzoFIr/c=",
+  "Source": "ApiVoeAirlines",
+  "BasePath": "_content/ApiVoeAirlines",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
