@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jezie\\desktop\\voeairlines-aspnetcore\\ApiVoeAirlines\\ApiVoeAirlines.csproj": {}
+    "c:\\Users\\jezie\\desktop\\voeairlines-aspnetcore\\ApiVoeAirlines\\ApiVoeAirlines.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jezie\\desktop\\voeairlines-aspnetcore\\ApiVoeAirlines\\ApiVoeAirlines.csproj": {
+    "c:\\Users\\jezie\\desktop\\voeairlines-aspnetcore\\ApiVoeAirlines\\ApiVoeAirlines.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jezie\\desktop\\voeairlines-aspnetcore\\ApiVoeAirlines\\ApiVoeAirlines.csproj",
+        "projectUniqueName": "c:\\Users\\jezie\\desktop\\voeairlines-aspnetcore\\ApiVoeAirlines\\ApiVoeAirlines.csproj",
         "projectName": "ApiVoeAirlines",
-        "projectPath": "C:\\Users\\jezie\\desktop\\voeairlines-aspnetcore\\ApiVoeAirlines\\ApiVoeAirlines.csproj",
+        "projectPath": "c:\\Users\\jezie\\desktop\\voeairlines-aspnetcore\\ApiVoeAirlines\\ApiVoeAirlines.csproj",
         "packagesPath": "C:\\Users\\jezie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jezie\\desktop\\voeairlines-aspnetcore\\ApiVoeAirlines\\obj\\",
+        "outputPath": "c:\\Users\\jezie\\desktop\\voeairlines-aspnetcore\\ApiVoeAirlines\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jezie\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,7 +21,6 @@
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -40,6 +39,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
