@@ -1,7 +1,6 @@
 # Projeto Final - Turma QUA.315.024 - Desenvolvedor C#
-<h1 align="center">Projeto VoeAirlines</h1>
 
-![Inserir logo](https://google.com)
+![Logo VoeAirlines](https://github.com/jeziel-almeida/voeairlines-asp-net-core/blob/master/img/voe-airlines-logo.png)
 
 ### **Projeto de manutenção e voos de aeronaves**
 * Cadastro de aeronaves
@@ -14,7 +13,7 @@
 * ``.NET 6``
 * ``C# 10``
 * ``ASP.NET Core Web API``
-* ``Node.js``
+* ``EntityFramework``
 
 ### **Gerenciamento de Pacotes**
 * ``NPM``
